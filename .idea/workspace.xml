@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c10e92-9022-4bb2-946a-af2186f2706f" name="Changes" comment="Ex.1 completed">
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Ex2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Lotto.java" afterDir="false" />
+    <list default="true" id="d4c10e92-9022-4bb2-946a-af2186f2706f" name="Changes" comment="Ex.2 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise2/Ex2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise2/Ex2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise3/Ex3Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Ex3Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674796364890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ex.2 completed">
+      <created>1674804738589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674804738589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex.3 completed" />
     <MESSAGE value="Ex.1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex.1 completed" />
+    <MESSAGE value="Ex.2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex.2 completed" />
   </component>
 </project>

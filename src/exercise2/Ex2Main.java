@@ -19,14 +19,6 @@ public class Ex2Main {
                 sum += number;
             }
 
-            // debug log
-            System.err.println("Debug attempt " +
-                    "#" + count + ": " +
-                    lotto.getValues()[0] + "+" +
-                    lotto.getValues()[1] + "+" +
-                    lotto.getValues()[2] + "=" +
-                    sum);
-
             // prompt for user input
             int userInput = Integer.parseInt(JOptionPane.showInputDialog(
                     "Choose a number between 3 and 27: \nAttempt #" + count + ":"));
